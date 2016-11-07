@@ -99,7 +99,7 @@ Working With Quickstart Extras
 TripleO Quickstart is more than just a tool for quickly deploying a single machine
 TripleO instance; it is an easily extensible framework for deploying OpenStack.
 
-For a how-to please see :ref:`working-with-extras`
+For a how-to please see .. _`working-with-extras`.
 
 Documentation
 -------------
